@@ -81,7 +81,7 @@ qu'on préfère ne pas exposer prêts-à-dupliquer.
 |---|---|
 | **Smart contracts** (Solidity, Foundry) | ✅ [`contracts/`](contracts) — identique au code vérifié sur Etherscan |
 | **Documentation d'architecture** (gouvernance, upgrade, tests, audits de bytecode) | ✅ [`docs/`](docs) |
-| **Moteur de nœuds mesh** (Rust, transports BLE/LoRa/Wi-Fi/WebRTC, sync CRDT) | ❌ dépôt privé — c'est le cœur différenciant du protocole |
+| **Moteur de nœuds mesh** (Rust, transports BLE/LoRa/Wi-Fi/WebRTC, sync CRDT) | ❌ dépôt privé |
 | **Frontends** (SvelteKit) | ❌ dépôt privé |
 | **Firmware embarqué** | ❌ dépôt privé |
 

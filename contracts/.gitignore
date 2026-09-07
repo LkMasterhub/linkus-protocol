@@ -1,0 +1,15 @@
+out/
+cache/
+broadcast/
+lib/
+.env
+.env.*
+!.env.example
+*.log
+coverage/
+lcov.info
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*.swo

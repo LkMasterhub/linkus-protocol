@@ -130,8 +130,8 @@ Prérequis : [Foundry](https://book.getfoundry.sh/) (`forge`, `cast`, `anvil`).
 | Phase | Objectif |
 |---|---|
 | PWA + refonte frontend sur contrats V8 | 2026 |
-| Alpha publique | 2026 |
-| Audit externe → déploiement mainnet | 2026 |
+| Alpha publique | 2027 |
+| Audit externe → déploiement mainnet | 2028 |
 | Au-delà | Transports matériels (BLE/LoRa), SDK multi-apps, multi-chain |
 
 ---
